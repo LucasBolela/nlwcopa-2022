@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BolãoCopa" title="#copa" src="https://github.com/lucasbolela/nlwcopa/raw/main/web/Web.png" width="1200px" />
+    <img alt="BolãoCopa" title="#copa" src="https://github.com/LucasBolela/nlwcopa-2022/blob/main/web/Web.png?raw=true" width="1200px" />
 </h1>
 
 ![Badge em Finish](http://img.shields.io/static/v1?label=STATUS&message=FINISH&color=GREEN&style=for-the-badge)
